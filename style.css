@@ -46,3 +46,11 @@ button {
     font-size: 18px;
 
 }
+
+@media (max-width:660px) {
+
+    button{
+        margin-top: 10px;
+    }
+
+}
